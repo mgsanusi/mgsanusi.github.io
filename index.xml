@@ -45,7 +45,23 @@
       <pubDate>Thu, 11 May 2017 16:56:46 -0400</pubDate>
       
       <guid>http://mgsanusi.github.io/about/</guid>
-      <description>&lt;p&gt;A few things about me:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Awards and Honors:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Radar Award for Service at UVA, 2016&lt;/li&gt;
+&lt;li&gt;Intermediate Honors, UVA&lt;/li&gt;
+&lt;li&gt;Dean&amp;rsquo;s List at UVA, all semesters&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Projects:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I wrote a &lt;strong&gt;compiler&lt;/strong&gt; that compiles COOL (an object-oriented language) down to x86&lt;/li&gt;
+&lt;li&gt;I also wrote an &lt;strong&gt;interpreter&lt;/strong&gt; for the same language&lt;/li&gt;
+&lt;li&gt;During my internship at Amazon, I developed new APIs for a Seller Enforcement Service and created a user interface for it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Other fun things:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;I&amp;rsquo;m a soprano 1 in the UVA University Singers and went on a European tour with this group (video coming soon?)&lt;/li&gt;
