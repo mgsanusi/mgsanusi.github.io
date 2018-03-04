@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marina Sanusi on Marina Sanusi</title>
-    <link>http://mgsanusi.github.io/index.xml</link>
+    <link>http://mgsanusi.github.io/</link>
     <description>Recent content in Marina Sanusi on Marina Sanusi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>courses</title>
@@ -39,13 +39,23 @@ Below are the CS classes I&amp;rsquo;ve taken at UVA:&lt;/p&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;CS 4720&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Mobile Apps&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;CS 4501&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Language Design and Implementation&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Programming Languages&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;CS 4501&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Compilers Practicum&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;CS 4414&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Operating Systems&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -108,6 +118,7 @@ Below are the CS classes I&amp;rsquo;ve taken at UVA:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;CS 1110: Introduction to Computing&lt;/li&gt;
 &lt;li&gt;CS 2150: Program and Data Representation&lt;/li&gt;
+&lt;li&gt;CS 4414: Operating Systems&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

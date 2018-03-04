@@ -2,13 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Marina Sanusi</title>
-    <link>http://mgsanusi.github.io/home/index.xml</link>
+    <link>http://mgsanusi.github.io/home/</link>
     <description>Recent content in Homes on Marina Sanusi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://mgsanusi.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://mgsanusi.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mgsanusi.github.io/home/about/</guid>
+      <description>Hi, I&amp;rsquo;m Marina&amp;ndash;a 4th-year student pursuing a Bachelor&amp;rsquo;s of Science in Computer Science at the University of Virginia. I work as a Teaching Assistant and Research Assistant, and I&amp;rsquo;m currently looking for a full-time job in software engineering, data analysis, or consulting. More information on my research interests, projects, teaching experience, and random things about me can be found on the other pages of this site! Feel free to take a look around, but this site is a work in progress, so don&amp;rsquo;t look too closely yet :P</description>
+    </item>
     
   </channel>
 </rss>

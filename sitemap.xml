@@ -92,6 +92,14 @@
     
     
     <url>
+      <loc>http://mgsanusi.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://mgsanusi.github.io/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -119,7 +127,16 @@
     
     
     <url>
+      <loc>http://mgsanusi.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://mgsanusi.github.io/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
