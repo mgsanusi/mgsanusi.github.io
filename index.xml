@@ -16,7 +16,28 @@
       <pubDate>Thu, 11 May 2017 16:58:12 -0400</pubDate>
       
       <guid>http://mgsanusi.github.io/courses/</guid>
-      <description></description>
+      <description>&lt;p&gt;+This is a work in progress, as it will take a little while for me to get these up!
++Below are the CS classes I&amp;rsquo;ve taken at UVA:
++
++|&lt;span style=&#34;font-weight:normal&#34;&gt;&lt;/span&gt;||
++|:&amp;mdash;&amp;mdash;&amp;mdash;-| :&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|
++| CS 8561   | Topics in Programming Languages       |
++| CS 6501   | Defense Against the Dark Arts         |
++| CS 4720   | Mobile Apps                           |
++| CS 4501   | Programming Languages                 |
++| CS 4501   | Compilers Practicum                   |
++| CS 4414   | Operating Systems                     |
++| CS 4102   | Algorithms                            |
++| CS 3330   | Computer Architecture                 |
++| CS 3240   | Advanced Software Development Methods |
++| CS 3102   | Theory of Computation                 |
++| CS 2330   | Digital Logic Design                  |
++| CS 2150   | Program and Data Representation       |
++| CS 2110   | Software Development Methods          |
++| CS 2102   | Discrete Mathematics                  |
++| CS 1110   | Intro to Computing                    |
++&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +46,11 @@
       <pubDate>Thu, 11 May 2017 16:58:03 -0400</pubDate>
       
       <guid>http://mgsanusi.github.io/teaching/</guid>
-      <description>&lt;p&gt;I have been a Teaching Assistant for CS 1110: Intro to Computing and am currently a Teaching Assistant for CS 2150: Program and Data Representation. As a TA, I have run labs, held office hours, graded tests, substitute lectured, and written test questions.&lt;/p&gt;
+      <description>&lt;p&gt;+I have been a Teaching Assistant for the following classes. As a TA, I have run labs, held office hours, graded tests, substitute lectured, and written test questions.
++
++* CS 1110: Introduction to Computing
++* CS 2150: Program and Data Representation
++* CS 4414: Operating Systems&lt;/p&gt;
 </description>
     </item>
     
